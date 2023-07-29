@@ -11,6 +11,14 @@ chenyhc 会收集整理 GitHub 开源项目，并将他们进行归，欢迎通�
 - [基于.Net Core开发的适合外贸商城系统](https://github.com/nopSolutions/nopCommerce)
 - [CoreShop](https://gitee.com/CoreUnion/CoreShop?_from=gitee_search)
 - [.net core小程序商城](https://github.com/trueai-org/module-shop)
+ ### 仓库管理系统（WMS）
+- [ModernWMS](https://github.com/fjykTec/ModernWMS)
+ ### 框架
+- [ Asp.Net Mvc开发的个人博客系统](https://gitee.com/LiuCabbage/RightControl_Blog)
+- [ .NET Core MVC 的权限管理系统](https://github.com/liukuo362573/YiShaAdmin)
+- [NET 7 + Vue.js 的前后端分离的通用后台管理系统框架](https://gitee.com/rector/DncZeus)
+
+
 
 ### AI
 - [支持多语言、多商店的商城，.Net7 + EF7领域驱动设计架构](https://github.com/smartstore/Smartstore)
