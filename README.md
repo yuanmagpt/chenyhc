@@ -24,6 +24,6 @@ chenyhc 会收集整理 GitHub 开源项目，并将他们进行归，欢迎通�
 ### AI
 - [文字生成图片stable-diffusion(https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 - [人脸替换工具](https://github.com/s0md3v/roop)
-- [语音变声器](https://github.com/w-okada/voice-changer)
+- [语音变声器](https://github.com/w-okada/voice-changer) 
 
 
