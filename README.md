@@ -25,6 +25,6 @@ chenyhc 会收集整理 GitHub 开源.NET项目，python.项目等，并将他�
 - [文字生成图片stable-diffusion(https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 - [人脸替换工具](https://github.com/s0md3v/roop)
 - [语音变声器](https://github.com/w-okada/voice-changer) 
-![1690899298178](https://github.com/yuanmagpt/chenyhc/assets/136598249/87961ac3-33eb-4b52-9886-7fde0384d1a1)
+
 
 
