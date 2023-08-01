@@ -34,6 +34,8 @@ chenyhc 会收集整理 GitHub 开源.NET项目，python.项目等，并将他�
 <img decoding="async" alt="支付宝" src="https://github.com/yuanmagpt/chenyhc/assets/136598249/70851ed4-0bb5-4b62-9df3-2e50f6256fad" width="300" height="350">
 
 ![image](https://github.com/yuanmagpt/chenyhc/assets/136598249/be9a6453-004a-4f0b-903d-a16bcbcb0d31)
+![image](https://github.com/yuanmagpt/chenyhc/assets/136598249/25e4316f-61cc-4bc0-ada7-a91e3e9d1fae)
+
 
 
 
