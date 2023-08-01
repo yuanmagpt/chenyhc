@@ -28,3 +28,10 @@ chenyhc 会收集整理 GitHub 开源.NET项目，python.项目等，并将他�
 
 
 
+
+
+![支付宝](https://github.com/yuanmagpt/chenyhc/assets/136598249/70851ed4-0bb5-4b62-9df3-2e50f6256fad)
+
+![微信](https://github.com/yuanmagpt/chenyhc/assets/136598249/630324bb-f57b-491d-8135-40d0a0e24635)
+
+
