@@ -12,11 +12,11 @@ chenyhc 会收集整理 GitHub 开源.NET项目，python.项目等，并将他�
 - [.net core小程序商城](https://github.com/trueai-org/module-shop)
  ### 仓库管理系统（WMS）
 - [ModernWMS](https://github.com/fjykTec/ModernWMS)
- ### 框架
-- [sscms系统](https://gitee.com/LiuCabbage/RightControl_Blog)
+ ### CMS
+- [sscms系统](https://github.com/siteserver/cms)
 
-   ### CMS
-- [ Asp.Net Mvc开发的个人博客系统](https://github.com/siteserver/cms)
+  ### 框架
+- [ Asp.Net Mvc开发的个人博客系统](https://gitee.com/LiuCabbage/RightControl_Blog)
 - [ .NET Core MVC 的权限管理系统](https://github.com/liukuo362573/YiShaAdmin)
 - [NET 7 + Vue.js 的前后端分离的通用后台管理系统框架](https://gitee.com/rector/DncZeus)
 
