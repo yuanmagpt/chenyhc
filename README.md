@@ -10,6 +10,7 @@ chenyhc 会收集整理 GitHub 开源.NET项目，python.项目等，并将他�
 - [基于.Net Core开发的适合外贸商城系统](https://github.com/nopSolutions/nopCommerce)
 - [CoreShop](https://gitee.com/CoreUnion/CoreShop?_from=gitee_search)
 - [.net core小程序商城](https://github.com/trueai-org/module-shop)
+- [企业级前后端分离【.NET Core6.0 Api + Vue 2.x + RBAC】权限框架-Blog.Core](https://github.com/anjoy8/Blog.Core)
  ### 仓库管理系统（WMS）
 - [ModernWMS](https://github.com/fjykTec/ModernWMS)
  ### CMS
@@ -20,6 +21,8 @@ chenyhc 会收集整理 GitHub 开源.NET项目，python.项目等，并将他�
 - [ .NET Core MVC 的权限管理系统](https://github.com/liukuo362573/YiShaAdmin)
 - [NET 7 + Vue.js 的前后端分离的通用后台管理系统框架](https://gitee.com/rector/DncZeus)
 
+ ### 工具
+- [C#开发的解压缩开源库](https://github.com/icsharpcode/SharpZipLib)
 ### AI
 - 整理中
 
