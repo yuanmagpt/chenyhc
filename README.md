@@ -20,7 +20,10 @@ chenyhc 会收集整理 GitHub 开源.NET项目，python.项目等，并将他�
 - [ Asp.Net Mvc开发的个人博客系统](https://gitee.com/LiuCabbage/RightControl_Blog)
 - [ .NET Core MVC 的权限管理系统](https://github.com/liukuo362573/YiShaAdmin)
 - [NET 7 + Vue.js 的前后端分离的通用后台管理系统框架](https://gitee.com/rector/DncZeus)
+- [NET Core+Vue+ElementUI前后端分离框架](https://github.com/cq-panda/Vue.NetCore.git)
 
+ ### 定时任务
+- [Quartz.Net做定时任务管理](https://github.com/cq-panda/Quartz.NetUI)
  ### 工具
 - [C#开发的解压缩开源库](https://github.com/icsharpcode/SharpZipLib)
 ### AI
