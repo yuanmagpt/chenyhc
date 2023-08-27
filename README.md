@@ -29,8 +29,10 @@ chenyhc 会收集整理 GitHub 开源.NET项目，python.项目等，并将他�
 - [C#开发的解压缩开源库](https://github.com/icsharpcode/SharpZipLib)
 - [短信验证码](https://github.com/KINGGUOKUN/Captcha.git)
 - [.NET ORM FreeSql](https://github.com/dotnetcore/FreeSql )
+
+  ## TypeScript 语言源码
 ### AI
-- 整理中
+-  [AI 聊天浏览器](https://github.com/smol-ai/GodMode/)
 
 ## python 语言源码
 ### AI
